@@ -48,5 +48,3 @@ The site is an online store of Briaton fixtures, where users can browse the prod
 - **REST API** for uploading product data
 - **Asynchronous requests** (fetch API)
 - **Dynamic updating of** content
-
-## 📁 Project structure
